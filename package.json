@@ -1,6 +1,6 @@
 {
   "name": "api-dev-toolkit",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "description": "This toolkit helps reduce some boilerplate codes when writing REST API's. It Also provides frequesntly used functions which speed up API development",
   "main": "index.js",
   "preferGlobal": true,
