@@ -23,7 +23,7 @@
     "console.table": "^0.10.0",
     "inquirer": "^7.0.0",
     "ioredis": "^4.14.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.24.0",
     "mongodb": "^3.3.2",
     "mssql": "^5.1.0",
